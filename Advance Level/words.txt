@@ -1,0 +1,2 @@
+Jumping is fun.
+DJango is a Framework.
